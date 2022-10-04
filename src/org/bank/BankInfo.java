@@ -3,10 +3,11 @@ package org.bank;
 public class BankInfo {
 	public void saving() {
 		// TODO Auto-generated method stub
-System.out.println("2");
+System.out.println("7");
+
 	}
 	public void fixed() {
 		// TODO Auto-generated method stub
-System.out.println("college");
+System.out.println("10");
 	}
 }
