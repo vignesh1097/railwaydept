@@ -7,6 +7,6 @@ System.out.println("2");
 	}
 	public void fixed() {
 		// TODO Auto-generated method stub
-System.out.println("kg");
+System.out.println("college");
 	}
 }
