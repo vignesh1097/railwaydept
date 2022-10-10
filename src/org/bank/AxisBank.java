@@ -4,7 +4,7 @@ public class AxisBank extends BankInfo {
 	private void deposit() {
 		// TODO Auto-generated method stub
 System.out.println("5");
-System.out.println("vicky");
+System.out.println("my name is vicky");
 	}
 	public static void main(String[] args) {
 		AxisBank a = new AxisBank();
